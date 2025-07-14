@@ -1,4 +1,4 @@
-import Header from "../includes/header"
+import Header from "../includes/Header"
 
 import Footer from "../includes/Footer"
 
